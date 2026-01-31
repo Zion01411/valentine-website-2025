@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Ganahan ka sako?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "Psstt diri ang sakto na tubag hehe❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me or lab bako nimo?",                          // For the love meter
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "eyyyy gi tangap ko HAHAHAHAH! 🎉💝💖💝💓",
-        message: "Murag Maka hilak man sad ta ani HAHAHAHAH",
+        message: "I love you sewww muchh po",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
